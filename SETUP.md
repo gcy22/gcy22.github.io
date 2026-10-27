@@ -26,7 +26,7 @@ Search for the placeholders below and replace them:
 
 | What | Where | Placeholder to replace |
 |------|-------|------------------------|
-| GitHub username | `_config.yml` (`url`), `_data/socials.yml` (`github_username`), `_data/cv.yml` | `YOUR-GITHUB-USERNAME` |
+| GitHub username | `_config.yml` (`url`), `_data/socials.yml` (`github_username`), `_data/cv.yml` | ✅ set to `gcy22` |
 | Email | `_data/socials.yml` (`email`), `_data/cv.yml` (`email`) | `your-email@example.com` |
 | Profile photo | `assets/img/prof_pic.jpg` | currently a placeholder image — **replace with your own photo** |
 | Bio / address | `_pages/about.md` | the bio paragraphs and `more_info` block |
