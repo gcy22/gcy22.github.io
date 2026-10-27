@@ -1,14 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+# List GitHub users whose repositories you want to showcase (public API, no token needed).
+# Leave empty to show nothing, or set to your own username once filled in.
+github_users: []
 
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# List specific repos as "owner/repo" (optional). Leave empty to only use github_users above.
+github_repos: []
