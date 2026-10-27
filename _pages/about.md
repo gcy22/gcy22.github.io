@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Harbin Institute of Technology, Shenzhen</p>
     <p>Shenzhen, Guangdong, China</p>
-    <p>Replace this with your office / mailing address.</p>
+    <p><a href="mailto:dutgcy@gmail.com">dutgcy@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Chenyu Guo (郭晨宇), a researcher at the **Harbin Institute of Technology, Shenzhen (HIT Shenzhen)**. 
+I am **Chenyu Guo (郭晨昱)**, a Ph.D. student in **Computer Science** at the [Harbin Institute of Technology, Shenzhen (HIT Shenzhen)](https://www.hitsz.edu.cn/).
 
-Write your biography here. Tell the world about yourself — your research interests, what you are working on, and what you are looking for (e.g., collaborations, students, positions). You can put a picture in, too: just replace `assets/img/prof_pic.jpg` with your own photo.
+Before moving into Computer Science, I received my **M.S. degree in Mechanical Engineering** from [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/) in **June 2026**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing the `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
+<!-- 待补充：研究兴趣 / 方向。把下面这行替换成你的研究方向即可，例如 "My research interests lie in computer vision and embodied AI." -->
+My research interests span machine learning and intelligent systems, with a focus on bridging perception and decision-making.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Google Scholar, ORCID, LinkedIn, GitHub, or just disable all of them.
+I am always happy to discuss research collaborations — feel free to reach me at [dutgcy@gmail.com](mailto:dutgcy@gmail.com).

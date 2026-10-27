@@ -5,11 +5,12 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Chenyu
 middle_name: ""
-last_name: Guo
+last_name: "Guo (郭晨昱)"
 contact_note: >
   The best way to reach me is by email — I'm always happy to discuss research collaborations.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Chenyu Guo — Researcher at Harbin Institute of Technology, Shenzhen. Personal academic homepage.
+  Chenyu Guo (郭晨昱) — Ph.D. student in Computer Science at Harbin Institute of Technology, Shenzhen.
+  Received his M.S. in Mechanical Engineering from Dalian University of Technology in June 2026.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

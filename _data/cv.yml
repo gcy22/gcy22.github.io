@@ -1,12 +1,13 @@
 cv:
-  name: Chenyu Guo
-  label: Researcher
+  name: "Chenyu Guo (郭晨昱)"
+  label: Ph.D. Student in Computer Science
   email: dutgcy@gmail.com
   location: Shenzhen, Guangdong, China
   image: ""
   summary: >-
-    Short professional summary. Replace with one or two sentences about who you are,
-    your field, and what you are working on.
+    Ph.D. student in Computer Science at Harbin Institute of Technology, Shenzhen.
+    Received his M.S. degree in Mechanical Engineering from Dalian University of Technology
+    in June 2026. His work focuses on machine learning and intelligent systems.
 
   social_networks:
     - network: GitHub
@@ -26,14 +27,27 @@ cv:
       - institution: Harbin Institute of Technology, Shenzhen
         location: Shenzhen, China
         url: https://www.hitsz.edu.cn/
-        area: Your Field
-        studyType: PhD # or MSc / BSc
-        start_date: 20XX
+        area: Computer Science
+        studyType: PhD
+        start_date: 2026
         end_date: Present
         score: ""
         courses: ""
         highlights:
-          - Replace with your study highlights.
+          - Ph.D. study since 2026; replace this line with your research topic, advisor, or lab.
+
+      - institution: Dalian University of Technology (DUT)
+        location: Dalian, China
+        url: https://www.dlut.edu.cn/
+        area: Mechanical Engineering
+        studyType: MSc
+        start_date: 20XX
+        end_date: June 2026
+        score: ""
+        courses: ""
+        highlights:
+          - Received the M.S. degree in June 2026.
+          - Replace 20XX with your actual start year, and add thesis title / research highlights.
 
     Experience:
       - company: Your Lab / Research Group

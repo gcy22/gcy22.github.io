@@ -27,9 +27,9 @@ Search for the placeholders below and replace them:
 | What                         | Where                                                                          | Placeholder to replace                                          |
 | ---------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- |
 | GitHub username              | `_config.yml` (`url`), `_data/socials.yml` (`github_username`), `_data/cv.yml` | ✅ set to `gcy22`                                               |
-| Email                        | `_data/socials.yml` (`email`), `_data/cv.yml` (`email`)                        | `your-email@example.com`                                        |
-| Profile photo                | `assets/img/prof_pic.jpg`                                                      | currently a placeholder image — **replace with your own photo** |
-| Bio / address                | `_pages/about.md`                                                              | the bio paragraphs and `more_info` block                        |
+| Email                        | `_data/socials.yml` (`email`), `_data/cv.yml` (`email`)                        | ✅ set to `dutgcy@gmail.com`                                    |
+| Profile photo                | `_pages/about.md` (`profile.image`)                                            | ✅ left blank — add `assets/img/prof_pic.jpg` then uncomment `image:` |
+| Bio / address                | `_pages/about.md`                                                              | ✅ updated — Ph.D. CS @ HITSZ; M.S. Mech. Eng. @ DUT (Jun 2026); **refine research interests** |
 | Google Scholar ID (optional) | `_data/socials.yml`                                                            | uncomment `scholar_userid:` and fill it                         |
 | LinkedIn / X (optional)      | `_data/socials.yml`                                                            | uncomment the lines you want                                    |
 | CV PDF                       | `assets/pdf/Chenyu_Guo_CV.pdf`                                                 | drop your CV here (then edit `cv.yml`)                          |
