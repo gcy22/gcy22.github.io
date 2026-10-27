@@ -3,7 +3,7 @@
 # See jekyll-socials docs: https://github.com/george-gca/jekyll-socials
 
 cv_pdf: /assets/pdf/Chenyu_Guo_CV.pdf   # put your CV PDF in assets/pdf/ (see SETUP.md)
-email: your-email@example.com           # your email address
+email: dutgcy@gmail.com           # your email address
 
 # --- Academic profiles ---
 orcid_id: 0009-0002-5906-4431           # your ORCID (verified)

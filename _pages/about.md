@@ -6,8 +6,8 @@ subtitle: <a href='https://www.hitsz.edu.cn/'>Harbin Institute of Technology, Sh
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  # image: prof_pic.jpg   # 头像留空：以后把照片放到 assets/img/prof_pic.jpg 再取消此行注释
+  # image_circular: false # crops the image to make it circular
   more_info: >
     <p>Harbin Institute of Technology, Shenzhen</p>
     <p>Shenzhen, Guangdong, China</p>
