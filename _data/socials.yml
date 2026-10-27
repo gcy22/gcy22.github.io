@@ -1,0 +1,18 @@
+# Social media links and usernames of the author.
+# Icons are displayed in the order defined here.
+# See jekyll-socials docs: https://github.com/george-gca/jekyll-socials
+
+cv_pdf: /assets/pdf/Chenyu_Guo_CV.pdf   # put your CV PDF in assets/pdf/ (see SETUP.md)
+email: your-email@example.com           # your email address
+
+# --- Academic profiles ---
+orcid_id: 0009-0002-5906-4431           # your ORCID (verified)
+# scholar_userid: YOUR_GOOGLE_SCHOLAR_ID # uncomment & fill your Google Scholar ID
+# inspirehep_id:                         # uncomment & fill if applicable
+
+# --- Code / professional ---
+github_username: YOUR-GITHUB-USERNAME   # your GitHub username
+# linkedin_username: your-linkedin       # uncomment & fill if you have LinkedIn
+# twitter_username: your-x-handle        # uncomment & fill if you use X/Twitter
+
+rss_icon: true   # comment this line to hide the RSS icon

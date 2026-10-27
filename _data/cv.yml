@@ -1,0 +1,59 @@
+cv:
+  name: Chenyu Guo
+  label: Researcher
+  email: your-email@example.com
+  location: Shenzhen, Guangdong, China
+  image: ""
+  summary: >-
+    Short professional summary. Replace with one or two sentences about who you are,
+    your field, and what you are working on.
+
+  social_networks:
+    - network: GitHub
+      username: YOUR-GITHUB-USERNAME
+    - network: ORCID
+      username: "0009-0002-5906-4431"
+
+  address:
+    street: ""
+    city: Shenzhen
+    region: Guangdong
+    postalCode: ""
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Harbin Institute of Technology, Shenzhen
+        location: Shenzhen, China
+        url: https://www.hitsz.edu.cn/
+        area: Your Field
+        studyType: PhD # or MSc / BSc
+        start_date: 20XX
+        end_date: Present
+        score: ""
+        courses: ""
+        highlights:
+          - Replace with your study highlights.
+
+    Experience:
+      - company: Your Lab / Research Group
+        position: Research Assistant
+        location: Shenzhen, China
+        start_date: 20XX
+        end_date: Present
+        summary: Replace with a short description of your role.
+        highlights:
+          - Highlight 1.
+          - Highlight 2.
+
+    Awards: []
+    Publications: []
+    Skills: []
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
+    Interests: []
+    Projects: []
+    References: []
