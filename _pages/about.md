@@ -29,7 +29,7 @@ latest_posts:
 
 I am **Chenyu Guo (郭晨昱)**, a Ph.D. student in **Computer Science** at the [Harbin Institute of Technology, Shenzhen (HIT Shenzhen)](https://www.hitsz.edu.cn/).
 
-Before moving into Computer Science, I received my **M.S. degree in Mechanical Engineering** from [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/) in **June 2026**.
+Before moving into Computer Science, I received my **M.S. degree in Mechanical Engineering** from [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/) in June 2026.
 
 <!-- 待补充：研究兴趣 / 方向。把下面这行替换成你的研究方向即可，例如 "My research interests lie in computer vision and embodied AI." -->
 My research interests span machine learning and intelligent systems, with a focus on bridging perception and decision-making.
